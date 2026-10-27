@@ -1,0 +1,24 @@
+# Dados originais: serão obtidos pela fonte indicada no README
+dados_originais/*.csv
+dados_originais/*.zip
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
+
+# Configurações locais do editor
+.vscode/
+
+# Arquivos temporários do Excel
+~$*.xlsx
+
+# Arquivos locais de configuração e credenciais
+.env
+
+# Arquivos de configuração de pastas do Windows
+desktop.ini
+Thumbs.db
